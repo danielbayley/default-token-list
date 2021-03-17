@@ -5,7 +5,7 @@
       "symbol": "SDT",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/sdt.png"
     },
     {
       "name": "Stake DAO BTC",
@@ -13,7 +13,7 @@
       "symbol": "sdcrvRenWSBTC",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/sdt-btc.png"
     },
     {
       "name": "Stake DAO USD",
@@ -21,7 +21,7 @@
       "symbol": "sd3Crv",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/sdt-usd.png"
     },
     {
       "name": "Stake DAO EUR",
@@ -29,7 +29,7 @@
       "symbol": "sdeursCRV",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/sdt-eur.png"
     },
     {
       "name": "Julien",
@@ -38,6 +38,22 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe6710e0CdA178f3D921f456902707B0d4C4A332B/logo.png"
+    },
+    {
+      "name": "MEME",
+      "address": "0xf2b5a8c37278bcdd50727d5ca879f8e5a4642e2e",
+      "symbol": "MEME",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/meme.png"
+    },
+    {
+      "name": "PickleToken",
+      "address": "0x2b88aD57897A8b496595925F43048301C37615Da",
+      "symbol": "PICKLE",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/pickle.png"
     },
   {
     "name": "decentral.games",
