@@ -4,7 +4,7 @@ const matic = require("./tokens/matic.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Uniswap Default List",
+    name: "Comethswap Default List",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
@@ -12,8 +12,8 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
-    keywords: ["uniswap", "default"],
+    logoURI: "https://swap.cometh.io/images/192x192_App_Icon.png",
+    keywords: ["comethswap", "default"],
     tokens: [...matic]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
