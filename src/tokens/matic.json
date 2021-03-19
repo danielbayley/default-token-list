@@ -51,7 +51,7 @@
       "name": "Julien",
       "address": "0x268Ad27C28601D28b79c792C14e95BD2b7A030F8",
       "symbol": "JULIEN",
-      "decimals": 18,
+      "decimals": 4,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xe6710e0CdA178f3D921f456902707B0d4C4A332B/logo.png"
     },
