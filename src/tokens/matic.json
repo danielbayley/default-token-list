@@ -8,6 +8,22 @@
       "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/sdt.png"
     },
     {
+      "name": "SushiToken",
+      "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+      "symbol": "SUSHI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
+    },
+    {
+      "name": "Aave",
+      "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+      "symbol": "AAVE",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9/logo.png"
+    },
+    {
       "name": "Stake DAO BTC",
       "address": "0xe212f92E5Af85268B33D2Aa587B51f49C3B945Be",
       "symbol": "sdcrvRenWSBTC",
@@ -41,7 +57,7 @@
     },
     {
       "name": "MEME",
-      "address": "0xf2b5a8c37278bcdd50727d5ca879f8e5a4642e2e",
+      "address": "0xf2b5a8c37278bcdD50727D5CA879f8e5A4642e2e",
       "symbol": "MEME",
       "decimals": 18,
       "chainId": 137,
@@ -168,7 +184,7 @@
     "logoURI": "https://i.imgur.com/IIUglm9.png?1"
   },
   {
-    "name": "Aavegotchi GHST Token",
+    "name": "GHST Token",
     "address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
     "symbol": "GHST",
     "decimals": 18,
@@ -176,7 +192,7 @@
     "logoURI": "https://aavegotchi.com/images/ghsttoken.svg"
   },
   {
-    "name": "HEXX",
+    "name": "HEX",
     "address": "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
     "symbol": "HEX",
     "decimals": 8,
