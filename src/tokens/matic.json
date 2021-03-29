@@ -8,6 +8,46 @@
       "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/sdt.png"
     },
     {
+      "name": "NodeRunners",
+      "address": "0xfb65ef42F7c8A70ff73F627DB6E9ba2Aff1F20fa",
+      "symbol": "NDR",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://tokens.1inch.exchange/0x739763a258640919981f9ba610ae65492455be53.png"
+    },
+    {
+      "name": "DokiDokiAzuki",
+      "address": "0x7CdC0421469398e0F3aA8890693d86c840Ac8931",
+      "symbol": "AZUKI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://tokens.1inch.exchange/0x910524678c0b1b23ffb9285a81f99c29c11cbaed.png"
+    },
+    {
+      "name": "Badger Sett Badger",
+      "address": "0x2628D301b161DB70E3dBbAc88d9D900cA426fF02",
+      "symbol": "bBADGER",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3472A5A71965499acd81997a54BBA8D852C6E53d/logo.png"
+    },
+    {
+      "name": "Badger Sett Digg",
+      "address": "0xFDde616084427f0A231D0664a985E1F820E34693",
+      "symbol": "bDIGG",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x798D1bE841a82a273720CE31c822C61a67a601C3/logo.png"
+    },
+    {
+      "name": "Staked SDT",
+      "address": "0xD921F8318cfd786baB1ea7492673F053c518Ac04",
+      "symbol": "xSDT",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/xsdt.png"
+    },
+    {
       "name": "SushiToken",
       "address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
       "symbol": "SUSHI",
@@ -59,7 +99,7 @@
       "name": "MEME",
       "address": "0xf2b5a8c37278bcdD50727D5CA879f8e5A4642e2e",
       "symbol": "MEME",
-      "decimals": 18,
+      "decimals": 8,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/meme.png"
     },

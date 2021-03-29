@@ -1,6 +1,6 @@
 {
   "name": "@cometh-game/default-token-list",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The Comethswap default token list",
   "main": "build/comethswap-default.tokenlist.json",
   "scripts": {
