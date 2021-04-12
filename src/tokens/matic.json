@@ -1,8 +1,8 @@
 [
 
     {
-      "name": "Aave Matic Market USD",
-      "address": "0x1a13f4ca1d028320a707d99520abfefca3998b7f",
+      "name": "Aave Matic Market USDC",
+      "address": "0x1a13F4Ca1d028320A707D99520AbFefca3998b7F",
       "symbol": "amUSDC",
       "decimals": 6,
       "chainId": 137,
