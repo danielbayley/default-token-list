@@ -1,4 +1,68 @@
 [
+
+    {
+      "name": "Aave Matic Market USD",
+      "address": "0x1a13f4ca1d028320a707d99520abfefca3998b7f",
+      "symbol": "amUSDC",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/aUSDC.png"
+    },
+
+    {
+      "name": "Aave Matic Market USDT",
+      "address": "0x60D55F02A771d515e077c9C2403a1ef324885CeC",
+      "symbol": "amUSDT",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/aUSDT.png"
+    },
+
+    {
+      "name": "Aave Matic Market DAI",
+      "address": "0x27F8D03b3a2196956ED754baDc28D73be8830A6e",
+      "symbol": "amDAI",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/aDAI.png"
+    },
+
+    {
+      "name": "Aave Matic Market WBTC",
+      "address": "0x5c2ed810328349100A66B82b78a1791B101C9D61",
+      "symbol": "amWBTC",
+      "decimals": 8,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/aWBTC.png"
+    },
+
+    {
+      "name": "Aave Matic Market WETH",
+      "address": "0x28424507fefb6f7f8E9D3860F56504E4e5f5f390",
+      "symbol": "amWETH",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/aETH.png"
+    },
+
+    {
+      "name": "Aave Matic Market WMATIC",
+      "address": "0x8dF3aad3a84da6b69A4DA8aeC3eA40d9091B2Ac4",
+      "symbol": "amWMATIC",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/aMATIC.png"
+    },
+
+    {
+      "name": "Aave Matic Market AAVE",
+      "address": "0x1d2a0E5EC8E5bBDCA5CB219e649B565d8e5c3360",
+      "symbol": "AMAAVE",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/aAAVE.png"
+    },
+
     {
       "name": "Stake DAO Token",
       "address": "0x361A5a4993493cE00f61C32d4EcCA5512b82CE90",
@@ -543,4 +607,5 @@
     "chainId": 80001,
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
   }
+
 ]
