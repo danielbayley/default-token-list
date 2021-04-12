@@ -1,6 +1,15 @@
 [
 
     {
+      "name": "Alchemix",
+      "address": "0x95c300e7740D2A88a44124B424bFC1cB2F9c3b89",
+      "symbol": "ALCX",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/cometh-game/default-token-list/master/img/alcx.png"
+    },
+
+    {
       "name": "Aave Matic Market USDC",
       "address": "0x1a13F4Ca1d028320A707D99520AbFefca3998b7F",
       "symbol": "amUSDC",
